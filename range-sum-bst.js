@@ -5,7 +5,7 @@ The binary search tree is guaranteed to have unique values.
 
 Runtime: 160 ms, faster than 92.64% of JavaScript online submissions for Range Sum of BST.
 Memory Usage: 67.1 MB, less than 63.92% of JavaScript online submissions for Range Sum of BST.
-O(n log n)
+O(n)
 */
 
 var rangeSumBST = function(node, l, r) {
