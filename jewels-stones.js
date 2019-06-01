@@ -5,8 +5,8 @@ You're given strings J representing the types of stones that are jewels, and S r
 The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A".
 
 O(n)
-Runtime: 56 ms, faster than 94.13% of JavaScript online submissions for Jewels and Stones.
-Memory Usage: 34.2 MB, less than 48.37% of JavaScript online submissions for Jewels and Stones.
+Runtime: 52 ms, faster than 97.86% of JavaScript online submissions for Jewels and Stones.
+Memory Usage: 34.4 MB, less than 36.02% of JavaScript online submissions for Jewels and Stones.
 */
 
 /**
